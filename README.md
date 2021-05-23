@@ -1,5 +1,6 @@
 # Mini-Project
 My Smartknower Machine Learning Mini Project
+
 I used bing image downloader as my images source for my project took three categories of images 
   
   1. Red cricket Ball
